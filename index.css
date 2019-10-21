@@ -4,8 +4,9 @@
 			font-family: "Courier New", Times, serif;
 		}
 
+                .aqua { color : #00FFFF; }
 		.white { color: #FFFFFF; }
 		.pink { color: #F9245B; }
 		.yellow { color: #E7C450; }
 		.green { color: #9AD12A; }
-	
+                .red { color : #FF0000; }
